@@ -13,7 +13,7 @@ link repósitorio: https://github.com/brunoaxlrose/marioBros-HTML-CSS-JavaScript
 
 # Descrição do Programa
   
-  Game desenvolvido utilizando algumas key frames, foi necessário de 3 imagens e 1gif, atribuindo movimento em cada keyframe. 
+  Game desenvolvido utilizando algumas key frames, foi necessário de 3 imagens e 1gif, atribuindo movimento de cada imagem em cada keyframe. 
   Podendo ao esbarrar em algum obstáculo jogar novamente o game.
   Atribuido para que assim que pressionasse qualquer tecla do teclado o mario pulasse entre os obstáculos.
   
