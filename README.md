@@ -1,5 +1,5 @@
 # Mario@Bros HTML/CSS/JavaScript
-link repósitorio: https://github.com/brunoaxlrose/marioBros-HTML-CSS-JavaScript.git
+link pageGame: https://brunoaxlrose.github.io/marioBros-HTML-CSS-JavaScript/
 
 # Imagem game em execução.
 <p align="center">
