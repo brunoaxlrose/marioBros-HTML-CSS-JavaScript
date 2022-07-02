@@ -1,4 +1,4 @@
-# Instagram HTML/CSS/JavaScript
+# Mario@Bros HTML/CSS/JavaScript
 link repósitorio: https://github.com/brunoaxlrose/marioBros-HTML-CSS-JavaScript.git
 
 # Imagem game em execução.
