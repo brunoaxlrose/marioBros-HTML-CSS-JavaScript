@@ -1,5 +1,5 @@
 # Instagram HTML/CSS/JavaScript
-link repósitorio: git@github.com:brunoaxlrose/marioBros-HTML-CSS-JavaScript.git
+link repósitorio: https://github.com/brunoaxlrose/marioBros-HTML-CSS-JavaScript.git
 
 # Imagem game em execução.
 <p align="center">
